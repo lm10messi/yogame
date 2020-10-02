@@ -155,8 +155,6 @@ while True:
         bullety = 450
         bullet_state = "ready"
 
-
-
     player(playerx,playery)
     scroe_game(10 ,10)
 
