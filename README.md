@@ -1,2 +1,2 @@
-# yogame
+# Alien Invasion
 pygame module use
